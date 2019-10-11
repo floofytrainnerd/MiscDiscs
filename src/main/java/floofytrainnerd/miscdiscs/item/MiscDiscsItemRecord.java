@@ -23,7 +23,7 @@ public class MiscDiscsItemRecord extends ItemRecord {
 	public MiscDiscsItemRecord(String nameIn, SoundEvent soundIn, String artistIn, String albumIn) {
 		super(nameIn, soundIn);
 		name = nameIn;
-		setUnlocalizedName(name);
+		setUnlocalizedName(MiscDiscs.modId+"."+name);
 		setRegistryName(name);
 		this.setCreativeTab(MiscDiscs.creativeTab);
 		this.artist = artistIn;

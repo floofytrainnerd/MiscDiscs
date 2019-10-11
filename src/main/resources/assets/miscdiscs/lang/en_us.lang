@@ -1,0 +1,9 @@
+#Names (All should be "Music Disc")
+
+item.miscdiscs.record_megalovania.name=Music Disc
+item.miscdiscs.record_pokemon_theme.name=Music Disc
+
+#Descriptions (Format: "Artist - Song Name")
+
+item.record.record_megalovania.desc=Toby Fox - Megalovania
+item.record.record_pokemon_theme.desc=Jason Paige - Pokémon Theme

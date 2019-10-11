@@ -1,0 +1,12 @@
+[{
+  "modid": "miscdiscs",
+  "name": "MiscDiscs",
+  "description": "Adds tons of new music discs.",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/miscdiscs/textures/logo.png",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/miscdiscs",
+  "updateJSON": "",
+  "authorList": ["floofytrainnerd"],
+  "credits": "All properties are owned by their respective owners I guess."
+}]
