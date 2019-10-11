@@ -1,0 +1,5 @@
+	"music.miscdiscs.replace": {
+		"category": "record",
+		"subtitle": "music.miscdiscs.replace",
+		"sounds": [ { "name": "miscdiscs:music/replace", "stream": true } ]
+	}

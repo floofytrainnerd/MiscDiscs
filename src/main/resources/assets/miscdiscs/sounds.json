@@ -1,0 +1,12 @@
+{
+	"music.miscdiscs.megalovania": {
+		"category": "record",
+		"subtitle": "music.miscdiscs.megalovania",
+		"sounds": [ { "name": "miscdiscs:music/megalovania", "stream": true } ]
+	},
+	"music.miscdiscs.pokemon_theme": {
+		"category": "record",
+		"subtitle": "music.miscdiscs.pokemon_theme",
+		"sounds": [ { "name": "miscdiscs:music/pokemon_theme", "stream": true } ]
+	}
+}
